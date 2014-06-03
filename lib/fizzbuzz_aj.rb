@@ -29,7 +29,7 @@ class Formats
   def format_as fmt
     if(fmt == "html")
       as_html
-    elseif (fmt == "json")
+      elseif (fmt == "json")
       as_json
     else
       as_plain
@@ -46,7 +46,7 @@ class Formats
 
   def as_html
     <<-EOF
-      #{@ary.map { |d| " <li>#{d}</li>".join("\n\t")}
+    #{@ary.map { |d| " <li>#{d}</li>".join("\n\t")}
     EOF
   end
 end
