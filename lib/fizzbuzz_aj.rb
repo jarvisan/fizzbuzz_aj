@@ -1,4 +1,5 @@
 require 'json'
+
 class FizzBuzz
   def initialize max
     @max = max.to_i
@@ -46,7 +47,7 @@ class Formats
 
   def as_html
     <<-EOF
-    #{@ary.map { |d| " <li>#{d}</li>".join("\n\t")}
+      #{@ary.map { |d| "<li>#{d}</li>"}.join("\n\t")}
     EOF
   end
 end
