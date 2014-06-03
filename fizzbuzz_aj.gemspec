@@ -6,7 +6,7 @@ require 'fizzbuzz_aj/version'
 Gem::Specification.new do |spec|
   spec.name          = "fizzbuzz_aj"
   spec.version       = FizzbuzzAj::VERSION
-  spec.authors       = ["A J"]
+  spec.authors       = ["Jarvis"]
   spec.email         = [""]
   spec.summary       = %q{FizzBuzz gem}
   spec.description   = %q{A gem that contains the logic for a FizzBuzz program along with formatting options}
