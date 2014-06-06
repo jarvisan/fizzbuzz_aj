@@ -1,7 +1,7 @@
 # Fizzbuzz_aj
 
-A gem that contains the logic for a FizzBuzz program:
-You give it a maximum value and from 1 to max it wil return Fizz if the number is diviable by 3
+A gem that contains the logic for a FizzBuzz program, you give it a maximum value and from 1 to max it wil return:
+Fizz if the number is diviable by 3
 Buzz if it is divisable by 5
 FizzBuzz if it is divisable by 15
 or the number if none of those are true
