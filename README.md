@@ -18,7 +18,7 @@ html
 
 plain text
 
-For example useage see examples/example_usage.rb
+For example useage see: examples/example_usage.rb
 
 ## Installation
 

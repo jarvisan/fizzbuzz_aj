@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "fizzbuzz_aj"
   spec.version       = FizzbuzzAj::VERSION
   spec.authors       = ["Jarvis"]
-  spec.email         = [""]
+  spec.email         = ["jarvisan@mail.gvsu.edu"]
   spec.summary       = %q{FizzBuzz gem}
   spec.description   = %q{A gem that contains the logic for a FizzBuzz program along with formatting options}
   spec.homepage      = "https://github.com/jarvisan/fizzbuzz_aj"
