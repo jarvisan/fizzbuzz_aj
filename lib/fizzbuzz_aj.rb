@@ -1,2 +1,2 @@
-require 'fizzbuzz_aj/fizzbuzz.rb'
-require 'fizzbuzz_aj/formats.rb'
+require_relative './fizzbuzz_aj/fizzbuzz.rb'
+require_relative './fizzbuzz_aj/formats.rb'

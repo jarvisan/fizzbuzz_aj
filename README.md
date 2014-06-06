@@ -1,24 +1,19 @@
 # Fizzbuzz_aj
 
-A gem that contains the logic for a FizzBuzz program, you give it a maximum value and from 1 to max it wil return:
+A gem that contains the logic for a FizzBuzz program.
 
-Fizz if the number is diviable by 3
+Give it a maximum value and from 1 to max it will return:
 
-Buzz if it is divisable by 5
+* `Fizz` if the number is divisible by 3
+* `Buzz` if it is divisible by 5
+* `FizzBuzz` if it is divisible by 15
+* or the number if none of those are true
 
-FizzBuzz if it is divisable by 15
+It also can return the result in 3 different formats:
 
-or the number if none of those are true
-
-It also can reutrn the resualt in 3 different formats:
-
-json
-
-html
-
-plain text
-
-For example useage see: examples/example_usage.rb
+* json
+* html
+* plain text
 
 ## Installation
 
@@ -36,7 +31,7 @@ Or install it yourself as:
 
 ## Usage
 
-FizzBuzz_aj performs the FizzBuzz calculations and format_aj formats the output
+For example usage look [here](https://github.com/jarvisan/fizzbuzz_aj/blob/master/examples/example_usage.rb)
 
 ## Contributing
 
