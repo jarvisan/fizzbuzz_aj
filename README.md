@@ -11,8 +11,11 @@ FizzBuzz if it is divisable by 15
 or the number if none of those are true
 
 It also can reutrn the resualt in 3 different formats:
+
 json
+
 html
+
 plain text
 
 ## Installation
