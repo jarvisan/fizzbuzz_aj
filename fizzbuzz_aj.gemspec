@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = [""]
   spec.summary       = %q{FizzBuzz gem}
   spec.description   = %q{A gem that contains the logic for a FizzBuzz program along with formatting options}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/jarvisan/fizzbuzz_aj"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
