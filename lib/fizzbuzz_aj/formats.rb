@@ -24,7 +24,9 @@ class Formats
 
   def as_html
     <<-EOF
+      <ul>
       #{@ary.map { |d| "<li>#{d}</li>"}.join("\n\t")}
+      </ul>
     EOF
   end
 end
