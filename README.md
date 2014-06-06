@@ -18,6 +18,8 @@ html
 
 plain text
 
+For example useage see examples/example_usage.rb
+
 ## Installation
 
 Add this line to your application's Gemfile:
