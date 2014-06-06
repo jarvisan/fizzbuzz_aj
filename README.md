@@ -1,6 +1,6 @@
-# FizzbuzzAj
+# Fizzbuzz_aj
 
-TODO: Write a gem description
+A gem that contains the logic for a FizzBuzz program along with formatting options.
 
 ## Installation
 
